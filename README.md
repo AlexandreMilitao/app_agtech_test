@@ -1,6 +1,6 @@
 # app_agtech_test
 
-A new Flutter project.
+flutter version 3.29.2
 
 ## Getting Started
 
